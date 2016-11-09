@@ -1,0 +1,17 @@
+com\collaborationserver\service\BlogPostService.class
+com\collaborationserver\controller\FourmController.class
+com\collaborationserver\model\BlogPost.class
+com\collaborationserver\model\Users.class
+com\collaborationserver\model\Fourm.class
+com\collaborationserver\controller\BlogPostController.class
+com\collaborationserver\model\FourmComments.class
+com\collaborationserver\model\Blog.class
+com\collaborationserver\controller\LoginController.class
+com\collaborationserver\controller\UserController.class
+com\collaborationserver\dao\UserServiceImpl.class
+com\collaborationserver\service\UserService.class
+com\collaborationserver\model\BlogComments.class
+com\collaborationserver\dao\BlogPostImpl.class
+com\collaborationserver\dao\FourmImpl.class
+com\collaborationserver\service\FourmService.class
+com\collaborationserver\model\UserCredentials.class
