@@ -11,9 +11,12 @@ D:\project_collaboration\collaborationserver\src\main\java\com\collaborationserv
 D:\project_collaboration\collaborationserver\src\main\java\com\collaborationserver\model\UserCredentials.java
 D:\project_collaboration\collaborationserver\src\main\java\com\collaborationserver\config\AppInitializer.java
 D:\project_collaboration\collaborationserver\src\main\java\com\collaborationserver\controller\BlogPostController.java
+D:\project_collaboration\collaborationserver\src\main\java\com\collaborationserver\service\MyUserDAOImpl.java
 D:\project_collaboration\collaborationserver\src\main\java\com\collaborationserver\service\BlogPostService.java
 D:\project_collaboration\collaborationserver\src\main\java\com\collaborationserver\controller\UserController.java
 D:\project_collaboration\collaborationserver\src\main\java\com\collaborationserver\model\FourmComments.java
 D:\project_collaboration\collaborationserver\src\main\java\com\collaborationserver\controller\LoginController.java
+D:\project_collaboration\collaborationserver\src\main\java\com\collaborationserver\model\BaseDomain.java
 D:\project_collaboration\collaborationserver\src\main\java\com\collaborationserver\dao\BlogPostImpl.java
+D:\project_collaboration\collaborationserver\src\main\java\com\collaborationserver\dao\MyUserDAO.java
 D:\project_collaboration\collaborationserver\src\main\java\com\collaborationserver\model\Fourm.java

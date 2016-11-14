@@ -10,8 +10,12 @@ com\collaborationserver\controller\LoginController.class
 com\collaborationserver\controller\UserController.class
 com\collaborationserver\dao\UserServiceImpl.class
 com\collaborationserver\service\UserService.class
+com\collaborationserver\model\BaseDomain.class
 com\collaborationserver\model\BlogComments.class
 com\collaborationserver\dao\BlogPostImpl.class
 com\collaborationserver\dao\FourmImpl.class
+com\collaborationserver\config\AppInitializer.class
+com\collaborationserver\dao\MyUserDAO.class
 com\collaborationserver\service\FourmService.class
+com\collaborationserver\config\AppConfig.class
 com\collaborationserver\model\UserCredentials.class
