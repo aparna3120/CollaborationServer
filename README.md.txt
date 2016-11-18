@@ -1,6 +1,6 @@
-# Online Shopping Portal
+# Collaboration Project
 This website is based on backend and frontend project.
-The backend project is created using maven quickstart project and front-end is created using maven webapp project.
+The backend project is created using maven web project and front-end is created using dynamic web project.
 
 
 ## Getting Started
@@ -14,7 +14,7 @@ HTML5
 Bootstrap
 Javascript
 AngularJs
-Json
+
 
 
 
