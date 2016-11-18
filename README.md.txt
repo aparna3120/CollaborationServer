@@ -8,4 +8,13 @@ The backend project is created using maven quickstart project and front-end is c
 ###Prerequisite
 
 
-####Technologies Used
+####Technologies Used :
+
+HTML5
+Bootstrap
+Javascript
+AngularJs
+Json
+
+
+
